@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SP20_BSE_032_ASS_01</string>
+    <string name="Action_Fragment">Hello blank fragment</string>
+    <string name="btn1">Add Record</string>
+    <string name="btn2">Search Record</string>
+    <string name="Messasge_Fragment">Hello blank fragment</string>
+    <string name="showmsg">Please select the appropiate action</string>
+    <string name="AddRecord_Fragment">Hello blank fragment</string>
+    <string name="Save">Save</string>
+
+
+</resources>
