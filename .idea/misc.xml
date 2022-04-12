@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/fragment_action_.xml" value="0.3098958333333333" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/fragment_add_record_.xml" value="0.25" />
-        <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/fragment_message_.xml" value="0.3098958333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/fragment_message_.xml" value="0.18" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/SP20_BSE_032_ASS_01/app/src/main/res/layout/fragment_show_record_.xml" value="0.3098958333333333" />
       </map>
     </option>
